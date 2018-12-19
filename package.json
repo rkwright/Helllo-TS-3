@@ -1,0 +1,24 @@
+{
+  "name": "Sandbox_TS-X",
+  "version": "1.0.0",
+  "description": "A simple hello world demo using Typescript and Three.js",
+  "main": "MyScene.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkwright/Hello-TS-Chrome-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkwright/Hello-TS-Chrome-3/issues"
+  },
+  "homepage": "https://github.com/rkwright/Hello-TS-Chrome-3#readme",
+  "devDependencies": {
+    "@types/requirejs": "^2.1.31",
+    "@types/three": "^0.93.13"
+  }
+}
